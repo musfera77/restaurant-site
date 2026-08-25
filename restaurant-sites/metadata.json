@@ -1,0 +1,6 @@
+{
+  "name": "Foodie Hub",
+  "description": "Steakhouse and BBQ restaurant web app with multi-location directory, menu ordering, and WhatsApp checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
